@@ -1,1 +1,1 @@
-# query_test1
+# query_tests
